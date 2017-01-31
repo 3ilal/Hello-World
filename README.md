@@ -5,7 +5,6 @@ This is my First Repository On GitHub
 using namespace std;
 int main()
 {
-cout<<"Hello World";
-getch();
+cout<<"Hello World;
 return 0;
 }
